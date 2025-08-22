@@ -34,7 +34,7 @@ Sistema integral para la gestión de una cadena hotelera que incluye módulos de
 - **Agustín Palomeque**
 - **Cristian Herrera**
 - **Alejandra Lopez**
-- **Ezequiel**
+- **Ezequiel Sanchez**
 - **David Pedro**
  ---
  **Hotel Code System** © 2025 - Desarrollado con ❤️ para la industria hotelera
